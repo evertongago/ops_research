@@ -1,0 +1,16 @@
+id,projeto,dt_abertura,tm_squad,tm_atual,perfil,skill_backend,skill_frontend,skill_java,skill_python,skill_spring,skill_reactjs,skill_angular,skill_dataengineer,skill_datascience,skill_po,senior,pleno,junior,ing_avancado,ing_intermediario,ing_basico
+1,Projeto 1,01/11/2020,3,1,PO,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+2,Projeto 1,01/11/2020,3,2,Java Backend,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1
+3,Projeto 1,01/11/2020,3,3,Frontend,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+4,Projeto 2,01/11/2020,5,4,PO,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+5,Projeto 2,15/11/2020,5,5,Frontend,0,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+6,Projeto 3,13/11/2020,3,3,Data Scientist,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+7,Projeto 4,01/11/2020,10,6,Java Full Stack,1,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0
+8,Projeto 4,12/11/2020,10,7,Java Backend,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+9,Projeto 4,22/11/2020,10,8,Java Backend,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+10,Projeto 4,22/11/2020,10,9,Java Backend,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,Projeto 4,01/12/2020,10,10,Java Backend,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+12,Projeto 5,10/11/2020,2,1,Java Full Stack,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0,0
+13,Projeto 5,10/11/2020,2,2,Data Scientist,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+14,Projeto 6,25/11/2020,6,3,Data Scientist,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+15,Projeto 6,25/11/2020,6,4,Data Scientist,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
