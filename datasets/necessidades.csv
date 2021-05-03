@@ -1,4 +1,4 @@
-id,projeto,dt_abertura,tm_squad,tm_atual,perfil,skill_backend,skill_frontend,skill_java,skill_python,skill_spring,skill_reactjs,skill_angular,skill_dataengineer,skill_datascience,skill_po,senior,pleno,junior,ing_avancado,ing_intermediario,ing_basico
+id,projeto,dt_abertura,tm_squad,tm_atual,perfil,has_backend,has_frontend,has_java,has_python,has_spring,has_reactjs,has_angular,has_dataengineer,has_datascience,has_po,senior,pleno,junior,ing_avancado,ing_intermediario,ing_basico
 1,Projeto 1,01/11/2020,3,1,PO,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
 2,Projeto 1,01/11/2020,3,2,Java Backend,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1
 3,Projeto 1,01/11/2020,3,3,Frontend,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0

@@ -1,4 +1,4 @@
-id,nome,perfil,skill_backend,skill_frontend,skill_java,skill_python,skill_spring,skill_reactjs,skill_angular,skill_dataengineer,skill_datascience,skill_po,senior,pleno,junior,ing_avancado,ing_intermediario,ing_basico
+id,nome,perfil,has_backend,has_frontend,has_java,has_python,has_spring,has_reactjs,has_angular,has_dataengineer,has_datascience,has_po,senior,pleno,junior,ing_avancado,ing_intermediario,ing_basico
 1,João Silva,Java Backend,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0
 2,Miguel dos Santos Neves,PO,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0
 3,Maria Eduarda Souza,Java Full Stack,1,1,1,0,1,1,1,0,0,0,0,1,0,1,0,0
